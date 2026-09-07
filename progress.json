@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:16:00.744Z",
+  "generated_at": "2026-09-23T22:24:44.145Z",
   "items": {
     "problem:9": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-09-21T21:15:56.641Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-07T21:03:53.870Z",
+      "last_pushed_at": "2026-09-07T21:03:53.870Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-07T21:08:03.361Z",
+      "last_pushed_at": "2026-09-07T21:08:03.361Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-07T21:15:38.620Z",
+      "last_pushed_at": "2026-09-07T21:15:38.620Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-07T21:28:12.564Z",
+      "last_pushed_at": "2026-09-07T21:28:12.564Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
